@@ -43,5 +43,6 @@ const desconectar = async () => {
     }
 }
 
+//importação de modelos de daods
 // Exportar para o main os metodos conectar e desconectar
 module.exports = { conectar, desconectar }
